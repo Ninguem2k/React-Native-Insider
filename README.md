@@ -16,8 +16,6 @@ GitHub </br>
 React Native </br>
 Visual Studio Code </br>
 
-Bibliotecas externas Necessarias: </br>
-
 Comandos usados no Projeto: </br>
 
 Comando usado para criar um novo projeto com expo: </br>
