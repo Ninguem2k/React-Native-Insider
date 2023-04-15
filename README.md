@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/@Sujeitoprogramador" target="_blank"><img src="https://i.ytimg.com/vi/OhtuaXzED3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGrZllLKhm_AbEO1RjXtlaiygYRA" target="_blank" width="50%" headth="50%" ></a>
+<img src="https://i.ytimg.com/vi/OhtuaXzED3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGrZllLKhm_AbEO1RjXtlaiygYRA" target="_blank" width="50%" headth="50%" >
 
 </br>
 
